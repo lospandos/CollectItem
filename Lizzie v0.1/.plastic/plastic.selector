@@ -1,0 +1,4 @@
+repository "Lizzie v0.1@lizzie_yazilim@cloud"
+  path "/"
+    br "/main"
+    co "/main"
